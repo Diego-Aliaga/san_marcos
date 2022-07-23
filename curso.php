@@ -18,7 +18,7 @@ if(isset($_SESSION['user'])) {?>
 		<title>Computación Científica</title>
 		<link rel="stylesheet" type="text/css" href="style2.css">
 		<script language="JavaScript" type="text/javascript" src="reloj.js"></script>
-		<script src="assets/js/custom.js"></script>
+
 	</head>
 
 	<style type="text/css">
